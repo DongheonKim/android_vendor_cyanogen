@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/cyanogen/products/gsm.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/lge/lu3000/lu3000.mk)
+$(call inherit-product, device/lge/lu3000/device_lu3000.mk)
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cyanogen/products/common_full.mk)
