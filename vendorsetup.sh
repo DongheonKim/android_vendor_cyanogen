@@ -80,4 +80,5 @@ add_lunch_combo cyanogen_zeppelin-eng
 add_lunch_combo cyanogen_zero-eng
 add_lunch_combo cyanogen_zeus-eng
 add_lunch_combo cyanogen_zeusc-eng
+add_lunch_combo cyanogen_lu3000-eng
 
